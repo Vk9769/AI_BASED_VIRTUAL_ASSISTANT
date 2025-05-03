@@ -44,7 +44,7 @@ JARVIS AI Assistant is a Python-based project that aims to replicate the functio
 
 ### Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/JARVIS-AI-Assistant.git`
+1. Clone the repository: `git clone https://github.com/Vk9769/AI_BASED_VIRTUAL_ASSISTANT.git`
 2. Navigate to the project directory: `cd JARVIS-AI-Assistant`
 
 ## Usage
