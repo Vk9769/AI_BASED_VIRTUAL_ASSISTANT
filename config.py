@@ -1,0 +1,3 @@
+# config.py
+
+apikey = "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"
